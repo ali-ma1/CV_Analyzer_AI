@@ -1,0 +1,359 @@
+--- Resume: File (1).pdf ---
+Diann Kupha
+Python Developer
+
+Contact Details:
+Email: diannkupha@gmail.com
+Phone: (938) 032 7933
+Address: North Arjun, 36142-1983, New Jersey
+
+Summary:
+Experienced Python Developer with over 5 years of experience in developing high-performance applications. Expertise in web frameworks, databases, and system integration.
+
+Education:
+Bachelor of Science in Computer Science with a Concentration in Python Programming
+University of California, Berkeley
+2017 - 2021
+
+Work Experience:
+Python Developer, Marks, Miller and Runte
+March 2023 - Present
+- Developed and maintained various Python applications using Flask, Django, and PostgreSQL.
+- Implemented a suite of automated tests for a Python-based web application using Pytest.
+- Developed a RESTful API using Python and the Flask microframework.
+
+Python Developer, Fritsch, Bashirian and Steuber
+May 2021 - February 2023
+- Used Python to develop and optimize data pipelines for ETL processes.
+- Utilized object-oriented programming and design patterns in Python to create efficient and maintainable solutions.
+- Developed a GUI application using Python and Tkinter.
+
+Skills:
+- Object-Oriented Programming: Expert
+- Data Structures: Expert
+- Web Development: Expert
+- Machine Learning: Expert
+- Automation: Expert
+- Algorithms: Expert
+
+References:
+Available upon request
+
+--- Resume: File (2).pdf ---
+RACHEL FRANK
+Python Developer
+Chicago, Illinois, US
+202-555-0120
+info@resumekraft.com
+linkedin.com/resumekraft
+
+SUMMARY
+Experienced Python Developer with a keen interest in automation and a strong background in the automotive domain. Proficient in designing Test Automation Frameworks and building smart applications using AI and Python.
+
+SKILLS
+- Python
+- Automation
+- Selenium
+- C++ programming
+- Machine learning
+
+TOOLS
+- GITHUB
+- TESTRAIL
+- JIRA
+- HPALM
+
+EXPERIENCE
+Senior Project Engineer | Wipro Technologies | Jan 2018 - Present
+- Developed a Python package for HPALM functionality using REST APIs query as a Python developer in Test-suite Scheduler Application.
+- Created a recovery framework for Test Bench Crashes, improving Software-Build Execution's TestBench Utilization.
+- Automated JIRA Tasks such as Issue creation and duplicate ticket checking.
+- Developed a Selenium python-based automation framework for enabling CICD for Application.
+- Automated the task of finding duplicate test cases in test rail, decreasing manual effort and improving requirement-test case mapping.
+
+Project Engineer | Wipro Technologies | Jul 2015 - Dec 2017
+- Developed test scripts to test the infotainment system.
+- Created a Test Automation framework for Android-Auto, AppleCarplay, and In_Vehicle-Software-Update Feature Testing.
+
+EDUCATION
+Bachelor of Engineering, Electronics and Communication | San Jose State University | Sep 2010 - Jun 2014
+
+CERTIFICATION
+Embedded system | Vector India | 2015-06-05
+Skills: C, Linux internals, microprocessors, socket programming
+
+PERSONAL PROJECTS
+- Stock Price Prediction: https://github.com/simple-stockpredictions/blob/master/Linear_models-SP.ipynb
+- Credit card fraud detection: https://github.com/CreditCardFraud/blob/master/Credit_card_prediction.ipynb
+
+--- Resume: File (3).pdf ---
+JOHN GONZALEZ
+Python Developer
+
+CONTACT INFORMATION
+Pittsburgh, PA
+Phone: (123) 456-7890
+Email: john1652@gmail.com
+LinkedIn: [Link]
+Github: [Link]
+
+CAREER OBJECTIVE
+Experienced Python developer with extensive Django experience, looking to continue to develop my skill set on the back-end at a company driven to addressing the climate crisis.
+
+WORK EXPERIENCE
+
+Python Developer
+DoorDash, Chicago, IL
+September 2018 - Present
+- Worked on building new Angular components for the customer-facing web app which improved the time on page for the average user by 2 minutes.
+- Worked within an agile team and helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first.
+- Built extensive test coverage for all new features which reduced the number of customer complaints by 7%.
+
+Python Developer
+Knewton, Pittsburgh, PA
+April 2016 - September 2018
+- Worked alongside another developer to implement RESTful APIs in Django that enabled our internal analytics team to increase reporting speed by 24%.
+- Using Selenium, built out a unit testing infrastructure for a client web application that reduced the number of bugs reported by the client by 11% month over month.
+
+EDUCATION
+
+M.S. in Computer Science
+University of Chicago, Chicago, IL
+2014 - 2016
+
+B.S. in Computer Science
+University of Pittsburgh, Pittsburgh, PA
+2010 - 2014
+
+SKILLS
+- HTML/CSS
+- SQL (PostgreSQL, Oracle)
+- JavaScript (Angular)
+- Python (Django)
+- REST APIs (GraphQL)
+- AWS (Redshift, S3)
+- Git
+
+PROJECTS
+
+Cryptocurrency Price Tracker, Creator
+- Incorporated API calls to several applications and stored data efficiently in our PostgreSQL backend.
+- Utilized D3.js to allow users to dynamically visualize price movements over time periods of their choosing.
+
+--- Resume: File (4).pdf ---
+**Nadin Friedberger**
+
+Phone: 555-555-5555
+
+Email: hello@kickresume.com
+
+---
+
+**PROFILE**
+
+Dynamic Certified Python Developer with 3 years of robust experience, demonstrating exceptional analytical and critical thinking skills. Recognized as Employee of the Year for proactive problem-solving, strong work ethic, and adeptness at thriving in high-pressure, deadline-oriented team settings.
+
+---
+
+**WORK EXPERIENCE**
+
+**Python Developer**, LUT Digital, Inc.
+
+June 2017 - June 2020, Pasadena, CA, United States
+
+- Developed web application back-end components and facilitated client communication to identify needs and goals.
+- Improved data protection and security measures, creating innovative user information solutions.
+- Maintained large databases, configured servers, and collaborated with colleagues to reduce software maintenance expenses - achieved a 15% cost reduction within one year.
+- Trained and supervised new employees, offering technical support to clients and coworkers.
+- Recognized as the Employee of the Year for consistently meeting and exceeding all assigned goals and objectives.
+
+---
+
+**EDUCATION**
+
+**Bachelor of Science in Computer Science**, California Institute of Technology
+
+September 2013 - May 2017, Pasadena, CA, United States
+
+- Achieved a GPA of 3.96, ranking in the top 3% of the program.
+- Engaged in various clubs and societies including Business Club, Engineering Society, and TEDx Club.
+
+**Gymnasium**, Brunchman High School
+
+September 2009 - May 2013, Berlin, Germany
+
+- Completed Gymnasium with Distinction, achieving Grade 1 (A/excellent equivalent) in all 4 subjects.
+- Received the 2012 Principal's Award for exceptional representation of the school at multiple Maths competitions.
+- Participated in Extracurricular Activities including Computer Club, Physics Society, and Riding Club.
+
+---
+
+**SKILLS**
+
+**Languages**
+
+- German (Native)
+- English (Full)
+- French (Elementary)
+
+**Computer Skills**
+
+- Python
+- HTML, JavaScript
+- Selenium
+- TestComplete
+- Appium
+
+**Strengths**
+
+- Ability to prioritize
+- Analytical
+- Determination
+- Detail oriented
+- Communication
+- Critical thinking
+- Problem-solving
+- Teamwork
+
+--- Resume: File (5).pdf ---
+**ALEXANDER TAYLOR**
+
+Python Developer | Data Specialist
+
+San Antonio, Texas
+
+Email: help@enhance.com
+
+LinkedIn: linkedin.com
+
+---
+
+**SUMMARY**
+
+Enthusiastic Python Developer with over two years' experience in HTML, JavaScript, and web development. Skilled in fetching and cleaning data, building APIs and web crawling. Seeking a challenging opportunity to utilize these skills and grow further in the field of data science.
+
+---
+
+**STRENGTHS**
+
+- **Critical Thinking:** Effectively used critical thinking to troubleshoot and solve challenging development problems while at Accenture.
+- **Communication:** At Cognizant, successfully communicated technical data complications and helped the team to overcome them.
+- **Teamwork:** Collaborated with development team to deliver over 10 successful projects within given deadlines at Accenture.
+
+---
+
+**EXPERIENCE**
+
+**Junior Python Developer**
+
+Cognizant, San Antonio, Texas | 2019-2020
+
+- Worked on HTML, Javascript and Python development projects, with a focus on data fetching and cleansing.
+- Developed Python scripts for Web Crawling and Web scraping resulting in 30% increased efficiency.
+- Assisted in building APIs on top of cleaned data sets, which helped to automate data flow from multiple sources.
+- Worked on storing extracted data into SQL / No SQL data store.
+
+**Web Developer**
+
+Accenture, San Antonio, Texas | 2018-2019
+
+- Worked on web development projects using HTML and JavaScript. Gained Python skills on the job.
+- Created dynamic and interactive web pages which improved customer interaction by 40%.
+- Developed complex JavaScript functions to improve web page efficiency.
+- Automated HTML and CSS tasks by implementing preprocessor scripting language, decreasing production time by 25%.
+
+---
+
+**SKILLS**
+
+- Python
+- HTML
+- JavaScript
+- Regular expressions
+- Web Scraping
+- Crawling
+- SQL/NOSQL
+- Data Cleansing
+- API Development
+
+---
+
+**EDUCATION**
+
+**Master of Science in Computer Science**
+
+University of Texas, San Antonio, Texas | 2016-2018
+
+**Bachelor of Science in Computer Science**
+
+Texas Tech University, Lubbock, Texas | 2012-2016
+
+---
+
+**CERTIFICATIONS**
+
+- Python for Data Science: A specialized course conducted by Coursera that focused on Python development for data science applications.
+- Data Structures and Algorithms: An intensive course offered by Udacity that targeted understanding of key data structures and algorithms.
+
+---
+
+**LANGUAGES**
+
+- English (Native)
+- Spanish (Intermediate)
+
+---
+
+**PASSIONS**
+
+- Coding: Love for coding started in college and continued professionally, always exploring new development techniques.
+
+--- Resume: File.pdf ---
+GIULIA GONZALEZ
+Python Developer
+
+CONTACT INFORMATION
+Email: ggonzalez@email.com
+Phone: (123) 456-7890
+LinkedIn: Linkedin Es
+Github: Github (
+
+WORK EXPERIENCE
+
+Python Developer
+DoorDash, Detroit, MI
+September 2017 - Present
+- Worked on building new Angular components for the customer-facing web app, which improved the time on page for the average user by 2 minutes.
+- Collaborated with an agile team of 6, and helped prioritize and scope feature requests to ensure that the biggest impact features were worked on first.
+- Built extensive test coverage for all new features, which reduced the number of customer complaints by 23%.
+- Acquired and ingested data to build and maintain data pipelines that led to discovering an opportunity for a new site feature, boosting revenue by 6%.
+- Communicated with internal teams and stakeholders, working to determine solutions for the user experience.
+
+Python Developer Intern
+Knewton, Chicago, IL
+April 2016 - April 2017
+- Worked alongside another developer to implement RESTful APIs in Django that enabled internal analytics team to increase reporting speed by 24%.
+- Using Selenium, built out a unit testing infrastructure for a client web application that reduced the number of bugs reported by the client by 11% month over month.
+- Provided project updates to leadership team of 3, and offered recommendations for design.
+- Diagnosed issues causing slow speeds in applications, and documented the process to making the database query system more robust.
+- Participated in writing scalable code with a team of 4 interns and 1 developer for applications for a math course.
+
+EDUCATION
+
+M.S. Computer Science
+University of Chicago, Chicago, IL
+2014 - 2016
+
+B.S. Computer Science
+University of Pittsburgh, Pittsburgh, PA
+2010 - 2014
+
+SKILLS
+- HTML/CSS
+- SQL (PostgreSQL, Oracle)
+- JavaScript (Angular)
+- Python (Django)
+- REST APIs (GraphQL)
+- AWS (Redshift, S3)
+- Git
+

@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+requests
+openai
+streamlit
+pytesseract
+pdf2image
+flask
+flask-cors
+torch
+transformers
+huggingface_hub
+httpx
+pyngrok
+subprocess-run
